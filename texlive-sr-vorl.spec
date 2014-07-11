@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-sr-vorl
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	Class for Springer books
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/springer/sr-vorl
