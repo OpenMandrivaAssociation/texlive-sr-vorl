@@ -1,9 +1,3 @@
-# revision 32440
-# category Package
-# catalog-ctan /macros/latex/contrib/springer/sr-vorl
-# catalog-date 2013-12-18 20:28:02 +0100
-# catalog-license lppl1.3
-# catalog-version 1.0
 Name:		texlive-sr-vorl
 Version:	1.1
 Release:	1
@@ -36,16 +30,10 @@ Springer Research.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/sr-vorl/sr-vorl.cls
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/README
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/backmatter_sr-vorl.tex
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/frontmatter_sr-vorl.tex
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/hauptdatei_sr-vorl.tex
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/mainmatter_sr-vorl.tex
-%doc %{_texmfdistdir}/doc/latex/sr-vorl/sr-vorl.pdf
+%{_texmfdistdir}/tex/latex/sr-vorl
+%doc %{_texmfdistdir}/doc/latex/sr-vorl
 #- source
-%doc %{_texmfdistdir}/source/latex/sr-vorl/sr-vorl.dtx
-%doc %{_texmfdistdir}/source/latex/sr-vorl/sr-vorl.ins
+%doc %{_texmfdistdir}/source/latex/sr-vorl
 
 #-----------------------------------------------------------------------
 %prep
