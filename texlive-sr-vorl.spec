@@ -1,6 +1,6 @@
 Name:		texlive-sr-vorl
 Version:	59333
-Release:	1
+Release:	2
 Summary:	Class for Springer books
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/springer/sr-vorl
