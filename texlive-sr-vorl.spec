@@ -3,7 +3,7 @@ Version:	59333
 Release:	2
 Summary:	Class for Springer books
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/springer/sr-vorl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/springer/sr-vorl
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sr-vorl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sr-vorl.doc.r%{version}.tar.xz
